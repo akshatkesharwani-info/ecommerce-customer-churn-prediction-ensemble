@@ -1,5 +1,6 @@
 # 🔄 E-commerce Customer Churn Prediction — Ensemble
 
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## Overview
 An e-commerce company is losing customers rapidly. This project builds and compares three classifiers — Logistic Regression, Decision Tree and Random Forest — then combines them into a Voting Ensemble to predict churn and identify the top retention levers.
